@@ -6,4 +6,4 @@ The YetGen Core Python Training Program is a 12-week educational program prepare
 
 During this training program, I am part of the educational support/planning team. At the same time, as a team leader, I support the participants with their code questions and provide explanations.
 
-<img src = "https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png">
+<img src = "https://miro.medium.com/v2/resize:fit:910/1*jbz6ImV3RT_vNzSvSHW_Fg.png">
